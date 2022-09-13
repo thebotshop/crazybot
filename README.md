@@ -1,5 +1,5 @@
 # crazybot
 
-paste your openai key straight into .git/openaiapikey.txt
+paste your openai key straight into openaiapikey.txt
 done
 run chat.py
