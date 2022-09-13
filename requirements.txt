@@ -3,3 +3,4 @@ streamlit
 numpy
 pprint
 python
+pip==22.2.2
