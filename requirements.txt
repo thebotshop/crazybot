@@ -1,6 +1,5 @@
 openai==0.20.0
 streamlit
 numpy==1.23.3
-pprint
 python
 pip==22.2.2
