@@ -1,2 +1,2 @@
 openai==0.20.0
-pip
+streamlit
