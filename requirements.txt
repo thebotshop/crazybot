@@ -2,4 +2,3 @@ openai==0.20.0
 streamlit
 numpy==1.23.3
 streamlit_chat
-message
